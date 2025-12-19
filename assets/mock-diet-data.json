@@ -1,0 +1,49 @@
+{
+  "weeklyDietPlanFatLoss": {
+    "vegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Oatmeal", "Banana", "Almond Milk"] },
+        { "id": "2", "meal": "Lunch", "items": ["Quinoa Salad", "Broccoli"] },
+        { "id": "3", "meal": "Dinner", "items": ["Lentil Soup", "Sweet Potato", "Asparagus"] },
+        { "id": "4", "meal": "Snacks", "items": ["Greek Yogurt", "Apple", "Peanut Butter"] }
+      ],
+      "Tuesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Smoothie", "Granola"] },
+        { "id": "2", "meal": "Lunch", "items": ["Chickpea Salad", "Spinach"] },
+        { "id": "3", "meal": "Dinner", "items": ["Stuffed Peppers", "Quinoa"] },
+        {
+      ]
+      
+      ],
+    },
+    "nonVegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Scrambled Eggs", "Toast", "Orange Juice"] },
+        { "id": "2", "meal": "Lunch", "items": ["Grilled Chicken", "Quinoa", "Broccoli"] },
+        { "id": "3", "meal": "Dinner", "items": ["Salmon", "Sweet Potato", "Asparagus"] },
+        { "id": "4", "meal": "Snacks", "items": ["Greek Yogurt", "Apple", "Peanut Butter"] }
+      ],
+      
+    }
+  },
+  "weeklyDietPlanWeightGain": {
+    "vegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Avocado Toast", "Orange Juice"] },
+        { "id": "2", "meal": "Lunch", "items": ["Vegetarian Burrito", "Rice", "Beans"] },
+        { "id": "3", "meal": "Dinner", "items": ["Pasta", "Vegetable Stir-fry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Protein Shake", "Nuts", "Cheese"] }
+      ]
+      
+    },
+    "nonVegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Eggs", "Avocado Toast", "Orange Juice"] },
+        { "id": "2", "meal": "Lunch", "items": ["Steak", "Mashed Potatoes", "Green Beans"] },
+        { "id": "3", "meal": "Dinner", "items": ["Pasta", "Meatballs", "Caesar Salad"] },
+        { "id": "4", "meal": "Snacks", "items": ["Protein Shake", "Nuts", "Cheese"] }
+      ]
+      
+    }
+  }
+}

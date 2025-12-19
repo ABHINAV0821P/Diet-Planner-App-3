@@ -1,0 +1,18 @@
+# Dependencies
+/node_modules
+/api/node_modules
+
+# Environment variables - IMPORTANT!
+.env
+
+# Expo specific
+.expo/
+dist/
+
+# IDE and OS files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

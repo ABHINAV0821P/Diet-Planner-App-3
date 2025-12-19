@@ -1,0 +1,182 @@
+{
+  "weeklyDietPlanFatLoss": {
+    "vegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Oatmeal"] },
+        { "id": "2", "meal": "Lunch", "items": ["Quinoa Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Lentil Soup"] },
+        { "id": "4", "meal": "Snacks", "items": ["Greek Yogurt"] }
+      ],
+      "Tuesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Smoothie"] },
+        { "id": "2", "meal": "Lunch", "items": ["Chickpea Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Stuffed Peppers"] },
+        { "id": "4", "meal": "Snacks", "items": ["Carrot Sticks"] }
+      ],
+      "Wednesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Avocado Toast"] },
+        { "id": "2", "meal": "Lunch", "items": ["Vegetable Wrap"] },
+        { "id": "3", "meal": "Dinner", "items": ["Vegetarian Chili"] },
+        { "id": "4", "meal": "Snacks", "items": ["Apple Slices"] }
+      ],
+      "Thursday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Fruit Salad"] },
+        { "id": "2", "meal": "Lunch", "items": ["Caprese Sandwich"] },
+        { "id": "3", "meal": "Dinner", "items": ["Eggplant Parmesan"] },
+        { "id": "4", "meal": "Snacks", "items": ["Trail Mix"] }
+      ],
+      "Friday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Pancakes"] },
+        { "id": "2", "meal": "Lunch", "items": ["Vegetarian Sushi"] },
+        { "id": "3", "meal": "Dinner", "items": ["Tofu Stir-fry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Smoothie Bowl"] }
+      ],
+      "Saturday": [
+        { "id": "1", "meal": "Breakfast", "items": ["French Toast"] },
+        { "id": "2", "meal": "Lunch", "items": ["Falafel Wrap"] },
+        { "id": "3", "meal": "Dinner", "items": ["Vegetable Curry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Baked Chips"] }
+      ],
+      "Sunday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Egg Muffins"] },
+        { "id": "2", "meal": "Lunch", "items": ["Grilled Cheese"] },
+        { "id": "3", "meal": "Dinner", "items": ["Vegetable Stew"] },
+        { "id": "4", "meal": "Snacks", "items": ["Fruit Smoothie"] }
+      ]
+    },
+    "nonVegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Scrambled Eggs"] },
+        { "id": "2", "meal": "Lunch", "items": ["Grilled Chicken"] },
+        { "id": "3", "meal": "Dinner", "items": ["Salmon"] },
+        { "id": "4", "meal": "Snacks", "items": ["Greek Yogurt"] }
+      ],
+      "Tuesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Scrambled Eggs"] },
+        { "id": "2", "meal": "Lunch", "items": ["Turkey Sandwich"] },
+        { "id": "3", "meal": "Dinner", "items": ["Grilled Shrimp"] },
+        { "id": "4", "meal": "Snacks", "items": ["Mixed Nuts"] }
+      ],
+      "Wednesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Greek Yogurt"] },
+        { "id": "2", "meal": "Lunch", "items": ["Chicken Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Beef Stir Fry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Fruit Salad"] }
+      ],
+      "Thursday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Smoothie"] },
+        { "id": "2", "meal": "Lunch", "items": ["Veggie Wrap"] },
+        { "id": "3", "meal": "Dinner", "items": ["Baked Cod"] },
+        { "id": "4", "meal": "Snacks", "items": ["Cottage Cheese"] }
+      ],
+      "Friday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Pancakes"] },
+        { "id": "2", "meal": "Lunch", "items": ["Tuna Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Chicken Fajitas"] },
+        { "id": "4", "meal": "Snacks", "items": ["Trail Mix"] }
+      ],
+      "Saturday": [
+        { "id": "1", "meal": "Breakfast", "items": ["French Toast"] },
+        { "id": "2", "meal": "Lunch", "items": ["BLT Sandwich"] },
+        { "id": "3", "meal": "Dinner", "items": ["Turkey Meatloaf"] },
+        { "id": "4", "meal": "Snacks", "items": ["Yogurt"] }
+      ],
+      "Sunday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Egg Muffins"] },
+        { "id": "2", "meal": "Lunch", "items": ["Grilled Cheese"] },
+        { "id": "3", "meal": "Dinner", "items": ["BBQ Chicken"] },
+        { "id": "4", "meal": "Snacks", "items": ["Fruit Smoothie"] }
+      ]
+    }
+  },
+  "weeklyDietPlanWeightGain": {
+    "vegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Avocado Toast"] },
+        { "id": "2", "meal": "Lunch", "items": ["Vegetarian Burrito"] },
+        { "id": "3", "meal": "Dinner", "items": ["Pasta"] },
+        { "id": "4", "meal": "Snacks", "items": ["Protein Shake"] }
+      ],
+      "Tuesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Smoothie"] },
+        { "id": "2", "meal": "Lunch", "items": ["Chickpea Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Stuffed Peppers"] },
+        { "id": "4", "meal": "Snacks", "items": ["Carrot Sticks"] }
+      ],
+      "Wednesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Bagel"] },
+        { "id": "2", "meal": "Lunch", "items": ["Vegetable Wrap"] },
+        { "id": "3", "meal": "Dinner", "items": ["Vegetarian Chili"] },
+        { "id": "4", "meal": "Snacks", "items": ["Apple Slices"] }
+      ],
+      "Thursday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Fruit Salad"] },
+        { "id": "2", "meal": "Lunch", "items": ["Caprese Sandwich"] },
+        { "id": "3", "meal": "Dinner", "items": ["Eggplant Parmesan"] },
+        { "id": "4", "meal": "Snacks", "items": ["Trail Mix"] }
+      ],
+      "Friday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Pancakes"] },
+        { "id": "2", "meal": "Lunch", "items": ["Vegetarian Sushi"] },
+        { "id": "3", "meal": "Dinner", "items": ["Tofu Stir-fry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Smoothie Bowl"] }
+      ],
+      "Saturday": [
+        { "id": "1", "meal": "Breakfast", "items": ["French Toast"] },
+        { "id": "2", "meal": "Lunch", "items": ["Falafel Wrap"] },
+        { "id": "3", "meal": "Dinner", "items": ["Vegetable Curry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Baked Chips"] }
+      ],
+      "Sunday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Egg Muffins"] },
+        { "id": "2", "meal": "Lunch", "items": ["Grilled Cheese"] },
+        { "id": "3", "meal": "Dinner", "items": ["Vegetable Stew"] },
+        { "id": "4", "meal": "Snacks", "items": ["Fruit Smoothie"] }
+      ]
+    },
+    "nonVegetarian": {
+      "Monday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Eggs"] },
+        { "id": "2", "meal": "Lunch", "items": ["Steak"] },
+        { "id": "3", "meal": "Dinner", "items": ["Pasta"] },
+        { "id": "4", "meal": "Snacks", "items": ["Protein Shake"] }
+      ],
+      "Tuesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Greek Yogurt"] },
+        { "id": "2", "meal": "Lunch", "items": ["Chicken Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Beef Stir Fry"] },
+        { "id": "4", "meal": "Snacks", "items": ["Fruit Salad"] }
+      ],
+      "Wednesday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Smoothie"] },
+        { "id": "2", "meal": "Lunch", "items": ["Veggie Wrap"] },
+        { "id": "3", "meal": "Dinner", "items": ["Baked Cod"] },
+        { "id": "4", "meal": "Snacks", "items": ["Cottage Cheese"] }
+      ],
+      "Thursday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Scrambled Eggs"] },
+        { "id": "2", "meal": "Lunch", "items": ["Turkey Sandwich"] },
+        { "id": "3", "meal": "Dinner", "items": ["Grilled Shrimp"] },
+        { "id": "4", "meal": "Snacks", "items": ["Mixed Nuts"] }
+      ],
+      "Friday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Pancakes"] },
+        { "id": "2", "meal": "Lunch", "items": ["Tuna Salad"] },
+        { "id": "3", "meal": "Dinner", "items": ["Chicken Fajitas"] },
+        { "id": "4", "meal": "Snacks", "items": ["Trail Mix"] }
+      ],
+      "Saturday": [
+        { "id": "1", "meal": "Breakfast", "items": ["French Toast"] },
+        { "id": "2", "meal": "Lunch", "items": ["BLT Sandwich"] },
+        { "id": "3", "meal": "Dinner", "items": ["Turkey Meatloaf"] },
+        { "id": "4", "meal": "Snacks", "items": ["Yogurt"] }
+      ],
+      "Sunday": [
+        { "id": "1", "meal": "Breakfast", "items": ["Egg Muffins"] },
+        { "id": "2", "meal": "Lunch", "items": ["Grilled Cheese"] },
+        { "id": "3", "meal": "Dinner", "items": ["BBQ Chicken"] },
+        { "id": "4", "meal": "Snacks", "items": ["Fruit Smoothie"] }
+      ]
+    }
+  }
+}
