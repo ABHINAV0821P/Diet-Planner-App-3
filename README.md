@@ -1,7 +1,7 @@
 Create a env file at root directory
 Then add this 
- # Gemini API Key
-GEMINI_API_KEY="AIzaSyCPaHO4E6dzgtcZk9W1Kh9TwMrUuAxzVy8"
+ # Gemini API Key // generate it from google ai studio
+GEMINI_API_KEY="Paste your api key here"
 USE_GEMINI=true
 Then check in the askai folder that what model of gemini is running or what models are available
 
